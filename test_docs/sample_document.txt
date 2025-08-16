@@ -1,0 +1,10 @@
+
+        This is a sample document for testing the RAG system.
+        It contains information about artificial intelligence and machine learning.
+        
+        Artificial Intelligence (AI) is a broad field of computer science concerned with 
+        building smart machines capable of performing tasks that typically require human intelligence.
+        
+        Machine Learning is a subset of AI that enables machines to learn and improve from 
+        experience without being explicitly programmed.
+        
