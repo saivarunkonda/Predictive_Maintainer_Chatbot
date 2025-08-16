@@ -16,7 +16,7 @@
  1. **Clone the Repository**
    ```powershell
    git clone https://github.com/saivarunkonda/Predictive_maintainer_chatbot.git
-   cd Predictive-Maintenance-for-Industrial-Equipment-main/Predictive_Maintainer_chatbot
+   cd Predictive_Maintainer_chatbot
    ```
 
  2. **Install Required Packages**
